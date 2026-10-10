@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": ["CCC", "CBC"],
+  "key": {"C": {"item": "minecraft:copper_ingot"}, "B": {"item": "minecraft:bucket"}},
+  "result": {"id": "summercraft:radiator", "count": 1}
+}

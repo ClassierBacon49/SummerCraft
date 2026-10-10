@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [" I ", "ILI", " I "],
+  "key": {"I": {"item": "minecraft:iron_ingot"}, "L": {"item": "minecraft:leather"}},
+  "result": {"id": "summercraft:clutch", "count": 1}
+}

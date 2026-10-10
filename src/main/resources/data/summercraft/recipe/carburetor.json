@@ -1,0 +1,6 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [{"item": "minecraft:hopper"}, {"item": "minecraft:iron_ingot"}],
+  "result": {"id": "summercraft:carburetor", "count": 1}
+}

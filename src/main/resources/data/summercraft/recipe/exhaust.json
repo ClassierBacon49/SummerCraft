@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": ["I  ", "I  ", "III"],
+  "key": {"I": {"item": "minecraft:iron_ingot"}},
+  "result": {"id": "summercraft:exhaust", "count": 1}
+}

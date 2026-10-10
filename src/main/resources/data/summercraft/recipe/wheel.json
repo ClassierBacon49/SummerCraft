@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [" K ", "KIK", " K "],
+  "key": {"I": {"item": "minecraft:iron_ingot"}, "K": {"item": "minecraft:dried_kelp"}},
+  "result": {"id": "summercraft:wheel", "count": 1}
+}

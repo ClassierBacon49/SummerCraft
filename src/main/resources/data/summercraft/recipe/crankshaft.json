@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": ["  I", " I ", "I  "],
+  "key": {"I": {"item": "minecraft:iron_ingot"}},
+  "result": {"id": "summercraft:crankshaft", "count": 1}
+}

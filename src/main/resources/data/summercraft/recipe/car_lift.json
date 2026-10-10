@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": ["I I", "IPI", "BBB"],
+  "key": {"I": {"item": "minecraft:iron_ingot"}, "P": {"item": "minecraft:piston"}, "B": {"item": "minecraft:iron_block"}},
+  "result": {"id": "summercraft:car_lift", "count": 1}
+}

@@ -1,0 +1,6 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [{"item": "minecraft:redstone"}, {"item": "minecraft:iron_ingot"}, {"item": "minecraft:clock"}],
+  "result": {"id": "summercraft:distributor", "count": 1}
+}

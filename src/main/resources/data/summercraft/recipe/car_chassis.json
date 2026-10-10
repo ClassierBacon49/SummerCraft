@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": ["I I", "IBI", "I I"],
+  "key": {"I": {"item": "minecraft:iron_ingot"}, "B": {"item": "minecraft:iron_block"}},
+  "result": {"id": "summercraft:car_chassis", "count": 1}
+}

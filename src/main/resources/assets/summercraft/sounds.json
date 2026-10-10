@@ -1,0 +1,218 @@
+{
+  "turbo_whistle": {
+    "sounds": [
+      {
+        "name": "summercraft:turbo_whistle"
+      }
+    ],
+    "subtitle": "subtitles.summercraft.turbo"
+  },
+  "supercharger_whine": {
+    "sounds": [
+      {
+        "name": "summercraft:supercharger_whine"
+      }
+    ],
+    "subtitle": "subtitles.summercraft.supercharger"
+  },
+  "blow_off": {
+    "sounds": [
+      {
+        "name": "summercraft:blow_off"
+      }
+    ],
+    "subtitle": "subtitles.summercraft.blow_off"
+  },
+  "starter": {
+    "sounds": [
+      {
+        "name": "summercraft:starter"
+      }
+    ],
+    "subtitle": "subtitles.summercraft.starter"
+  },
+  "tyre_squeal": {
+    "sounds": [
+      {
+        "name": "summercraft:tyre_squeal"
+      }
+    ],
+    "subtitle": "subtitles.summercraft.tyre_squeal"
+  },
+  "horn": {
+    "sounds": [
+      {
+        "name": "summercraft:horn"
+      }
+    ],
+    "subtitle": "subtitles.summercraft.horn"
+  },
+  "ratchet": {
+    "sounds": [
+      {
+        "name": "summercraft:ratchet"
+      }
+    ],
+    "subtitle": "subtitles.summercraft.ratchet"
+  },
+  "gear_shift": {
+    "sounds": [
+      {
+        "name": "summercraft:gear_shift"
+      }
+    ],
+    "subtitle": "subtitles.summercraft.gear_shift"
+  },
+  "gear_grind": {
+    "sounds": [
+      {
+        "name": "summercraft:gear_grind"
+      }
+    ],
+    "subtitle": "subtitles.summercraft.gear_grind"
+  },
+  "backfire": {
+    "sounds": [
+      {
+        "name": "summercraft:backfire"
+      }
+    ],
+    "subtitle": "subtitles.summercraft.backfire"
+  },
+  "crash": {
+    "sounds": [
+      {
+        "name": "summercraft:crash"
+      }
+    ],
+    "subtitle": "subtitles.summercraft.crash"
+  },
+  "engine_inline_4_0": {
+    "sounds": [
+      {
+        "name": "summercraft:engine_inline_4_0"
+      }
+    ],
+    "subtitle": "subtitles.summercraft.engine"
+  },
+  "engine_inline_4_1": {
+    "sounds": [
+      {
+        "name": "summercraft:engine_inline_4_1"
+      }
+    ],
+    "subtitle": "subtitles.summercraft.engine"
+  },
+  "engine_inline_4_2": {
+    "sounds": [
+      {
+        "name": "summercraft:engine_inline_4_2"
+      }
+    ],
+    "subtitle": "subtitles.summercraft.engine"
+  },
+  "engine_inline_4_3": {
+    "sounds": [
+      {
+        "name": "summercraft:engine_inline_4_3"
+      }
+    ],
+    "subtitle": "subtitles.summercraft.engine"
+  },
+  "engine_boxer_4_0": {
+    "sounds": [
+      {
+        "name": "summercraft:engine_boxer_4_0"
+      }
+    ],
+    "subtitle": "subtitles.summercraft.engine"
+  },
+  "engine_boxer_4_1": {
+    "sounds": [
+      {
+        "name": "summercraft:engine_boxer_4_1"
+      }
+    ],
+    "subtitle": "subtitles.summercraft.engine"
+  },
+  "engine_boxer_4_2": {
+    "sounds": [
+      {
+        "name": "summercraft:engine_boxer_4_2"
+      }
+    ],
+    "subtitle": "subtitles.summercraft.engine"
+  },
+  "engine_boxer_4_3": {
+    "sounds": [
+      {
+        "name": "summercraft:engine_boxer_4_3"
+      }
+    ],
+    "subtitle": "subtitles.summercraft.engine"
+  },
+  "engine_v6_0": {
+    "sounds": [
+      {
+        "name": "summercraft:engine_v6_0"
+      }
+    ],
+    "subtitle": "subtitles.summercraft.engine"
+  },
+  "engine_v6_1": {
+    "sounds": [
+      {
+        "name": "summercraft:engine_v6_1"
+      }
+    ],
+    "subtitle": "subtitles.summercraft.engine"
+  },
+  "engine_v6_2": {
+    "sounds": [
+      {
+        "name": "summercraft:engine_v6_2"
+      }
+    ],
+    "subtitle": "subtitles.summercraft.engine"
+  },
+  "engine_v6_3": {
+    "sounds": [
+      {
+        "name": "summercraft:engine_v6_3"
+      }
+    ],
+    "subtitle": "subtitles.summercraft.engine"
+  },
+  "engine_v8_0": {
+    "sounds": [
+      {
+        "name": "summercraft:engine_v8_0"
+      }
+    ],
+    "subtitle": "subtitles.summercraft.engine"
+  },
+  "engine_v8_1": {
+    "sounds": [
+      {
+        "name": "summercraft:engine_v8_1"
+      }
+    ],
+    "subtitle": "subtitles.summercraft.engine"
+  },
+  "engine_v8_2": {
+    "sounds": [
+      {
+        "name": "summercraft:engine_v8_2"
+      }
+    ],
+    "subtitle": "subtitles.summercraft.engine"
+  },
+  "engine_v8_3": {
+    "sounds": [
+      {
+        "name": "summercraft:engine_v8_3"
+      }
+    ],
+    "subtitle": "subtitles.summercraft.engine"
+  }
+}

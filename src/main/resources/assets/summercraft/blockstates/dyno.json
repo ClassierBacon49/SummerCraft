@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": {"model": "summercraft:block/dyno"},
+    "facing=east": {"model": "summercraft:block/dyno", "y": 90},
+    "facing=south": {"model": "summercraft:block/dyno", "y": 180},
+    "facing=west": {"model": "summercraft:block/dyno", "y": 270}
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": ["BIB", "BRB", "BIB"],
+  "key": {"I": {"item": "minecraft:iron_ingot"}, "B": {"item": "minecraft:iron_block"}, "R": {"item": "minecraft:redstone_block"}},
+  "result": {"id": "summercraft:v8_engine_block", "count": 1}
+}

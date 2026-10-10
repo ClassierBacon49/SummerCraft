@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": ["L  ", "LLL", "I I"],
+  "key": {"I": {"item": "minecraft:iron_ingot"}, "L": {"item": "minecraft:leather"}},
+  "result": {"id": "summercraft:car_seat", "count": 1}
+}

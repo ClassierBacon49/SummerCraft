@@ -1,0 +1,6 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [{"item": "minecraft:glass_bottle"}, {"item": "minecraft:coal"}],
+  "result": {"id": "summercraft:motor_oil", "count": 1}
+}

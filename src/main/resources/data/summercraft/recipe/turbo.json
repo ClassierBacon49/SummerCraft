@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [" I ", "IPI", " C "],
+  "key": {"I": {"item": "minecraft:iron_ingot"}, "P": {"item": "minecraft:piston"}, "C": {"item": "minecraft:copper_ingot"}},
+  "result": {"id": "summercraft:turbo", "count": 1}
+}

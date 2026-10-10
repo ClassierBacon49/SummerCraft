@@ -1,0 +1,6 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [{"item": "minecraft:iron_ingot"}, {"item": "minecraft:flint"}, {"item": "minecraft:flint"}],
+  "result": {"id": "summercraft:brake_pads", "count": 1}
+}

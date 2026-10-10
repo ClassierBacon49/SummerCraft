@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": ["III", "PRP", "III"],
+  "key": {"I": {"item": "minecraft:iron_ingot"}, "P": {"item": "minecraft:piston"}, "R": {"item": "minecraft:redstone"}},
+  "result": {"id": "summercraft:supercharger", "count": 1}
+}

@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": ["IRI", "IBI", "IRI"],
+  "key": {"I": {"item": "minecraft:iron_ingot"}, "B": {"item": "minecraft:iron_block"}, "R": {"item": "minecraft:redstone"}},
+  "result": {"id": "summercraft:boxer_engine_block", "count": 1}
+}

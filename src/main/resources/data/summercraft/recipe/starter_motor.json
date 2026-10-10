@@ -1,0 +1,6 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [{"item": "minecraft:copper_ingot"}, {"item": "minecraft:copper_ingot"}, {"item": "minecraft:redstone"}, {"item": "minecraft:iron_ingot"}],
+  "result": {"id": "summercraft:starter_motor", "count": 1}
+}

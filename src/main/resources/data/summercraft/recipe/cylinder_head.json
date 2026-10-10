@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": ["III", "IRI"],
+  "key": {"I": {"item": "minecraft:iron_ingot"}, "R": {"item": "minecraft:redstone"}},
+  "result": {"id": "summercraft:cylinder_head", "count": 1}
+}
